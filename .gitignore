@@ -32,6 +32,6 @@
 *.app
 
 # other files
-.in
-.out
-.pdf
+*.in
+*.pdf
+*.*~
